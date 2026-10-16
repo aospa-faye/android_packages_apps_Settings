@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Whether device supports increased touch sensitvity -->
+    <bool name="config_supportGloveMode">false</bool>
+
+    <!-- Whether device supports high touch polling rate -->
+    <bool name="config_supportTouchPollingMode">false</bool>
+
+    <!-- Show haptic styles -->
+    <bool name="config_supportHapticProfiles" translatable="false">false</bool>
+
+</resources>
